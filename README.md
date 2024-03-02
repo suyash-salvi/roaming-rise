@@ -24,7 +24,7 @@ For questions, bug reports, or feature requests, please open an issue on this re
 
 Sources:
 1) Figma source files
-   https://www.figma.com/file/ohYVl0JDXELBvmx4HFAP99/RoamingRise?type=design&node-id=0%3A1&mode=design&t=9xxNC1JTlF6i8btl-1
+   https://bit.ly/roaming-rise-figma
 
 
 
