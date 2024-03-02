@@ -22,3 +22,9 @@ Support:
 For questions, bug reports, or feature requests, please open an issue on this repository. We appreciate your feedback!
 
 
+Sources:
+1) Figma source files
+   https://www.figma.com/file/ohYVl0JDXELBvmx4HFAP99/RoamingRise?type=design&node-id=0%3A1&mode=design&t=9xxNC1JTlF6i8btl-1
+
+
+
