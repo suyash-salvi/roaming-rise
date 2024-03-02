@@ -23,8 +23,11 @@ For questions, bug reports, or feature requests, please open an issue on this re
 
 
 Sources:
-1) Figma source files
+1) Figma Designs
    https://bit.ly/roaming-rise-figma
+2) Logo Kits
+   https://bit.ly/roaming-rise-logo
+   
 
 
 
