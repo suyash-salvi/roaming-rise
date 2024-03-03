@@ -29,7 +29,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[Roaming Rise Code of Conduct](https://github.com/suyash-salvi/roaming-rise/develop/CODE_OF_CONDUCT.md).
+[Roaming Rise Code of Conduct](https://github.com/suyash-salvi/roaming-rise/blob/develop/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <>.
 
