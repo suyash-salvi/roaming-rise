@@ -1,5 +1,9 @@
 # roaming-rise
-Roaming Rise is an innovative alarm clock application designed for travelers who need to wake up on time regardless of their location. With Roaming Rise, you can set alarms that automatically adjust based on your current geographical coordinates, ensuring you never miss an important appointment or adventure while on the move.
+Roaming Rise is an innovative alarm clock application designed for travelers who need to wake up on 
+time regardless of their location. With Roaming Rise, you can set alarms that automatically adjust 
+based on your current geographical coordinates, ensuring you never miss an important appointment or 
+adventure while on the move.
+
 
 Features:
 1) Location-based Alarms: Set alarms that adapt to your current location, allowing you to wake up on time no matter where your travels take you.
