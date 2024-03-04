@@ -4,8 +4,6 @@ time regardless of their location. With Roaming Rise, you can set alarms that au
 based on your current geographical coordinates, ensuring you never miss an important appointment or 
 adventure while on the move.
 
-##new changes
-
 Features:
 1) Location-based Alarms: Set alarms that adapt to your current location, allowing you to wake up on time no matter where your travels take you.
 2) Customizable Alerts: Choose from a variety of alarm sounds and customize snooze settings to suit your preferences and travel style.
